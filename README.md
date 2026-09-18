@@ -115,7 +115,7 @@ Kronos-Rosemary-nonksu.zip
 
 Standard kernel build without KernelSU-Next.
 
-For the KSU build, use a compatible **KernelSU-Next Manager**.
+For the KSU build, use a compatible **KernelSU-Next Manager v3.3.0**.
 
 ---
 
